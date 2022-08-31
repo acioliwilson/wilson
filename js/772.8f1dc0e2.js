@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwdev"]=self["webpackChunkwdev"]||[]).push([[772],{1772:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var r=t(6252);const s={class:"main-articles"};function c(e,n,t,c,a,u){return(0,r.wg)(),(0,r.iD)("section",s)}var a={name:"ArticlesView",components:{},data(){return{}},methods:{}},u=t(3744);const i=(0,u.Z)(a,[["render",c]]);var o=i}}]);
+//# sourceMappingURL=772.8f1dc0e2.js.map
